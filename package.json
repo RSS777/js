@@ -1,0 +1,19 @@
+{
+  "name": "exemplo",
+  "version": "1.0.0",
+  "description": "Minha primeira api em nodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RSS777/js.git"
+  },
+  "author": "Ronald Santiago",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RSS777/js/issues"
+  },
+  "homepage": "https://github.com/RSS777/js#readme"
+}
